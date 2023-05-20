@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #1b1818;
+    border-radius: 7px;
+    font-family: "Montserrat", sans-serif;
+    z-index: 20;
+}
+a{
+    color: white;
+    text-align: center;
+}
+li {
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+}
+
+.imgLogo {
+    width: 20rem;
+    z-index: 30;
+}
